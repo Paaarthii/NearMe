@@ -144,6 +144,7 @@ queensland.html
 </body>
 </html>
 ```
+saveethauniversity.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -187,16 +188,20 @@ queensland.html
 </html>
 ```
 ## OUTPUT
-NEAR ME MAP
+PLACES AROUND ME
+
 ![alt text](<Screenshot 2025-12-26 094611.png>)
 
 VELS FILMCITY
+
 ![alt text](<Screenshot (84).png>)
 
 QUEENSLAND AMUSEMENT PARK
+
 ![alt text](<Screenshot (86).png>)
 
 SAVEETHA UNIVERSITY 
+
 ![alt text](<Screenshot (85).png>)
 
 
